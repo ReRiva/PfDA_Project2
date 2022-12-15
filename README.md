@@ -1,7 +1,7 @@
-# Fundamentals of Data Analysis
+# Programming for Data Analysis
 
 ### Introduction
-A repository that contains the weekly assessments and exercises for the Fundamental of Data Analysis as well as a Project on the Normal Distribution
+
 
 ### Description
 
