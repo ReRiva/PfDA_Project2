@@ -1,10 +1,10 @@
 # Programming for Data Analysis
 
 ### Introduction
-
+Project for the Programming for Data Analysis module using the Breast Cancer Wisconsin (Diagnostic) Data Set.
 
 ### Description
-
+The Breast Cancer Wisconsin dataset is a dataset that contains records of characteristics of the cell nuclei from a digitized image of a fine needle aspiration (FNA) of a breast mass. It can be found and download at  [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/breast%2Bcancer%2Bwisconsin%2B(diagnostic))
 
 ## Setup/Installation Requirements
 
@@ -29,8 +29,13 @@ pip install matplotlib
 ```
 
 ## What to expect
+-	Definition and explanation of the dataset and its attributes.
+-	Definition of what is Supervised and Unsupervised learning.
+-	Explanation of the type of the classifiers for training in this dataset.
+-	Cleaning and Statistical analysis of the dataset.
+-	Correlation and selection of the dataset attributes
+-	Fitting and training the classifiers with chosen attributes
+-	Output of the precision of each classifier
+-	Literature review and comparison with our results
 
-
-
-## References
 
